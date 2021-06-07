@@ -1,9 +1,15 @@
-![IDÉIAS](https://user-images.githubusercontent.com/82781818/121069601-abbbc500-c79b-11eb-9b91-be1777b76cbc.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82781818/121069601-abbbc500-c79b-11eb-9b91-be1777b76cbc.gif">
+</p>
+
 <br>
 <br>
+
+<br>
+
 # 🌍 Objetivo
 
-Este é um repositório que tem como objetivo compartilhar ideias de projetos para iniciantes em JavaScript<br>
+Este é um repositório que tem como objetivo compartilhar ideias de projetos para iniciantes em JavaScript. Pois todos nós sabemos que para aprender alguma linguagem de programação é preciso muita prática, você pode ver algumas dicas [neste repositório](https://github.com/caetanomtnz/pt.javascript.info/tree/master/1-js). <br>
 <br>
 
 # 📝 Como contribuir
