@@ -1,8 +1,5 @@
-<a href="#">
-<img src="IDÉIAS.gif">
-<br>
-<h1 align="center"> JavaScript Project Ideas </h1>
- &nbsp;
+![IDÉIAS](https://user-images.githubusercontent.com/82781818/121069601-abbbc500-c79b-11eb-9b91-be1777b76cbc.gif)
+
  
 ## 🌍 Objetivo
 
