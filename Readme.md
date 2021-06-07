@@ -16,7 +16,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais deta
 
 ## 👦👩 Contribuidores
 
-<table>
+<br>
+<table
   <tr>
     <td align="center">
       <a href="#">
