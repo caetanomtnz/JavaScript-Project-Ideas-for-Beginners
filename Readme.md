@@ -21,9 +21,15 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 <br>
 
-# 👦👩 Contribuidores
-| [<img src="https://avatars.githubusercontent.com/u/82781818?s=400&u=6d92f7d23d51475c53c2d9ffc9a602966f68601d&v=4" width="155"><br><sub>@caetanomtnz</sub>](https://github.com/caetanomtnz) |
+# 🐔 Autor
+
+ | [<img src="https://avatars.githubusercontent.com/u/82781818?v=4" width="155"><br><sub>@caetanomtnz</sub>](https://github.com/caetanomtnz) |
 | :---: |
+
+<br>
+ 
+# 🐣 Contribuidores
+
 
 | [<img src="https://imagens.canaltech.com.br/celebridades/539.400.jpg" width="155"><br><sub>@markzuckerberg</sub>](https://github.com/caetanomtnz) |
 | :---: |
