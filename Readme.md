@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" alt="começo">
   <img src="https://user-images.githubusercontent.com/82781818/121069601-abbbc500-c79b-11eb-9b91-be1777b76cbc.gif">
 </p>
 
@@ -33,5 +33,16 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 | [<img src="https://imagens.canaltech.com.br/celebridades/539.400.jpg" width="155"><br><sub>@markzuckerberg</sub>](https://github.com/caetanomtnz) |
 | :---: |
+
+<br>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+
+
+[⬆ Voltar ao topo](#JavaScript-Project-Ideas-for-Beginners)<br>
 
  
