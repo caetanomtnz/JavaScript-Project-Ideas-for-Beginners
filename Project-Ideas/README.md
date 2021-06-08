@@ -1,5 +1,5 @@
-# Olá
-## Neste README estão algumas ideias de projetos para iniciantes em JavaScript, caso queira contribuir com o projeto visite o arquivo CONTRIBUTING.md ou [acesse aqui](CONTRIBUTING.md). Espero que você se divirta e faça muitos projetos ❤
+## Olá
+### Neste README estão algumas ideias de projetos para iniciantes em JavaScript, caso queira contribuir com o projeto visite o arquivo CONTRIBUTING.md ou [acesse aqui](CONTRIBUTING.md). Espero que você se divirta e faça muitos projetos ❤
 
 1. Lista de tarefas
 2. To do list
