@@ -1,6 +1,6 @@
 ## Como contribuir
 1. Fork este repositório<br>
-2. Envie seus commits<br>
+2. Envie seus commits<br> 
 3. Insira um resumo dos links que você adicionou<br>
 4. Solicite um pull request<br>
 
