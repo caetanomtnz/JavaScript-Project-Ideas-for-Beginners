@@ -13,7 +13,7 @@ Idiomas: [English](English) |
 
 ## 🌍 Objetivo 
 
-Este é um repositório que tem como objetivo compartilhar ideias de projetos para iniciantes em JavaScript. Pois todos nós sabemos que para aprender alguma linguagem de programação é preciso muita prática. <br>
+Este é um repositório que tem como objetivo compartilhar ideias de projetos para iniciantes em JavaScript. Pois todos nós sabemos que para aprender alguma linguagem de programação é preciso muita prática. Por este motivo foi criado o projeto Ideias.js. <br>
 <br>
 <br>
 
