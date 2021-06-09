@@ -1,13 +1,11 @@
 <a href="#">
-
 <p align="center" alt="começo">
   <img src="https://user-images.githubusercontent.com/82781818/121187418-09045480-c836-11eb-868b-5f7921bfb0c0.png">
 </p>
 <br>
 
 ## 🌍 Purpose
-This is a repository that aims to share project ideas for JavaScript beginners. Because we all know that learning a programming language takes a lot of practice, you can see some tips in [this repository](https://github.com/caetanomtnz/pt.javascript.info/tree/master/1-js)
-
+This is a repository that aims to share project ideas for JavaScript beginners. Because we all know that learning a programming language takes a lot of practice.
 
 
 ## 📝 How to contribute
