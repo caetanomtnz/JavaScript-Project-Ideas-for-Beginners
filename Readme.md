@@ -1,39 +1,57 @@
-<p align="center" alt="começo">
-  <img src="https://user-images.githubusercontent.com/82781818/121187418-09045480-c836-11eb-868b-5f7921bfb0c0.png">
-</p>
+<a href="#">
+<img src="IDÉIAS.gif">
 <br>
+<h1 align="center"> JavaScript Project Ideas </h1>
+ &nbsp;
+ 
+## 🌍 Objetivo
 
-## 🌍 Objetivo 
+Este é um repositório que tem como objetivo compartilhar ideias de projetos para iniciantes em JavaScript
 
-Este é um repositório que tem como objetivo compartilhar ideias de projetos para iniciantes em JavaScript. Pois todos nós sabemos que para aprender alguma linguagem de programação é preciso muita prática, você pode ver algumas dicas [neste repositório](https://github.com/caetanomtnz/pt.javascript.info/tree/master/1-js). <br>
-<br>
-<br>
 
 ## 📝 Como contribuir
- 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e saiba como contribuir.<br>
+
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
 
-<br>
-
-<br>
-
-## Autor
-
- | [<img src="https://avatars.githubusercontent.com/u/82781818?v=4" width="155"><br><sub>@caetanomtnz</sub>](https://github.com/caetanomtnz) |
-| :---: |
-
-<br>
- 
-## Contribuidores
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
 
 
-| [<img src="https://imagens.canaltech.com.br/celebridades/539.400.jpg" width="155"><br><sub>@markzuckerberg</sub>](https://github.com/caetanomtnz) |
-| :---: |
+## 👦👩 Contribuidores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/82781818?s=400&u=6d92f7d23d51475c53c2d9ffc9a602966f68601d&v=4" width="100px;" alt="Foto do Caetano Marinazzo"/><br>
+        <sub>
+          <b>Caetano Martinazzo</b>
+        </sub>
+      </a>
+    </td>
+
+    <table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://imagens.canaltech.com.br/celebridades/539.400.jpg" width="100px;" alt="Foto do Mark Zuckerberg">
+        <br>
+        <sub>
+          <b>Mark Zuckerberg</b>
+        </sub>
+      </a>
+    </td>
 
 
 
+ <td align="center">
+      <a href="#">
+        <img src="https://imagens.canaltech.com.br/celebridades/539.400.jpg" width="100px;" alt="Foto do Mark Zuckerberg">
+        <br>
+        <sub>
+          <b>Mark Zuckerberg</b>
+        </sub>
+      </a>
+    </td>
 
-
- 
- 
+    
