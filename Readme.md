@@ -3,7 +3,7 @@
 </p>
 <br>
 
-## 🌍 Objetivo
+## 🌍 Objetivo 
 
 Este é um repositório que tem como objetivo compartilhar ideias de projetos para iniciantes em JavaScript. Pois todos nós sabemos que para aprender alguma linguagem de programação é preciso muita prática, você pode ver algumas dicas [neste repositório](https://github.com/caetanomtnz/pt.javascript.info/tree/master/1-js). <br>
 <br>
