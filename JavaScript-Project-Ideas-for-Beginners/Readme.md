@@ -1,4 +1,4 @@
-[English](English) | [Português](Readme.md)
+[English](English)
 
 
 <a href="#">
