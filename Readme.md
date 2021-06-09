@@ -10,7 +10,7 @@ Este é um repositório que tem como objetivo compartilhar ideias de projetos pa
 <br>
 
 ## 📝 Como contribuir
-
+ 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e saiba como contribuir.<br>
 
 
