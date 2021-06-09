@@ -5,7 +5,7 @@
 
 <p align="center" alt="começo">
   <img src="https://user-images.githubusercontent.com/82781818/121187418-09045480-c836-11eb-868b-5f7921bfb0c0.png">
-</p>
+</p> 
 <br>
 
 ## 🌍 Objetivo 
