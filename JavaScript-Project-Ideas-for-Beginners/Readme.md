@@ -16,7 +16,7 @@ Este é um repositório que tem como objetivo compartilhar ideias de projetos pa
 
 ## 📝 Como contribuir
  
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e saiba como contribuir.<br>
+Quer fazer parte desse projeto! Clique [AQUI](CONTRIBUTING.md) e saiba como contribuir.<br>
 
 
 <br>
